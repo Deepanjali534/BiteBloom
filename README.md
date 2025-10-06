@@ -1,4 +1,4 @@
-# BiteBloom 🍴
+# BiteBloom
 
 BiteBloom is a web application that allows users to search recipes by name or ingredients, view detailed recipe instructions, and save their favourite recipes.
 
@@ -12,7 +12,6 @@ BiteBloom is a web application that allows users to search recipes by name or in
 - HTML
 - CSS
 - JavaScript
-- Google Fonts
 
 ## Setup Instructions
 
