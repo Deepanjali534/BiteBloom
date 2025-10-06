@@ -193,7 +193,7 @@ header h1 {
 }
 @media (max-width: 600px) {
   .recipe-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
